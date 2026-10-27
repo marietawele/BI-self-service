@@ -29,9 +29,20 @@ Tous les taux passent par la fonction `taux_par(data, colonnes)`, qui renvoie le
 
 ## Captures d'écran
 
-Dans le dossier `captures/` :
+### Survie
 
-- Survie : `survie.png`
-- Démographie : `demographie_1.png`, `demographie_2.png`
-- Familles : `famille_1.png` (indicateurs et graphiques), `famille_2.png` (classe, tableau croisé, interprétation)
-- Données : `données.png`
+![Onglet Survie](captures/survie.png)
+
+### Démographie
+
+![Onglet Démographie, sexe](captures/demographie_1.png)
+![Onglet Démographie, port et tranches d'âge](captures/demographie_2.png)
+
+### Familles
+
+![Onglet Familles, indicateurs et graphiques](captures/famille_1.png)
+![Onglet Familles, classe, tableau croisé et interprétation](captures/famille_2.png)
+
+### Données
+
+![Onglet Données](captures/données.png)
